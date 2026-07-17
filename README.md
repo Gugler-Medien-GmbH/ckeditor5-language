@@ -4,7 +4,7 @@
 
 ## Compatibility
 
-TYPO3 12.4.0 - 12.4.99
+TYPO3 14.3
 CKEditor 5
 
 ## What does this extension do?

@@ -31,7 +31,6 @@ class TextPartLanguageUI extends Plugin {
   init() {
     const editor = this.editor;
     const t = editor.t;
-    console.log(editor.config);
     const options = editor.config.get("language.textPartLanguage");
     const defaultTitle = t("Choose language");
     const removeTitle = t("Remove language");
